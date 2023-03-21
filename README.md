@@ -19,4 +19,5 @@ Before using this program, make sure you have the following libraries installed:
 4. The collected data will be printed over serial in CSV format.<br> 
 
 <h2>License</h2>
+
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
