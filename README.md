@@ -1,6 +1,7 @@
 # ESP32 Weather Station Logger
 <h2>Description</h2>
-This is a simple Arduino sketch for collecting data from a BME280 sensor, a PMS5003 particle sensor, and a UV sensor. The collected data is printed over serial in CSV format. The sketch was written in C++ and has been tested on an Arduino Uno.
+This is a simple Arduino sketch for collecting data from a BME280 sensor, a PMS5003 particle sensor, and a UV sensor. The collected data is printed over serial in CSV format. The sketch was written in C++ and has been tested on an Arduino Uno.<br>
+<b>2020</b>
 
 <h2>Prerequisites</h2>
 Before using this program, make sure you have the following libraries installed:<br><br>
@@ -18,4 +19,4 @@ Before using this program, make sure you have the following libraries installed:
 4. The collected data will be printed over serial in CSV format.<br> 
 
 <h2>License</h2>
-This code is licensed under the MIT License. See the LICENSE file for details.
+This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
