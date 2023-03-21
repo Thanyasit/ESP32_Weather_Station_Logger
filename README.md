@@ -1,2 +1,21 @@
 # ESP32_collecting_data
-ESP32 collecting data in CSV format.
+<h2>Description</h2>
+This is a simple Arduino sketch for collecting data from a BME280 sensor, a PMS5003 particle sensor, and a UV sensor. The collected data is printed over serial in CSV format. The sketch was written in C++ and has been tested on an Arduino Uno.
+
+<h2>Prerequisites</h2>
+Before using this program, make sure you have the following libraries installed:<br><br>
+
+- Wire.h - included with Arduino IDE<br> 
+- SPI.h - included with Arduino IDE<br> 
+- Adafruit_Sensor.h - install from the Arduino Library Manager<br> 
+- Adafruit_BME280.h - install from the Arduino Library Manager<br> 
+- PMS.h - install from the Arduino Library Manager<br> 
+
+<h2>Usage</h2>
+1.Connect the BME280, PMS5003, and UV sensor to the appropriate pins on the Arduino board.<br> 
+2.Upload the sketch to the Arduino board using the Arduino IDE.<br> 
+3.Open the Serial Monitor in the Arduino IDE or a serial terminal of your choice.<br> 
+4.The collected data will be printed over serial in CSV format.<br> 
+
+<h2>License</h2>
+This code is licensed under the MIT License. See the LICENSE file for details.
