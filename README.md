@@ -18,6 +18,14 @@ Before using this program, make sure you have the following libraries installed:
 3. Open the Serial Monitor in the Arduino IDE or a serial terminal of your choice.<br> 
 4. The collected data will be printed over serial in CSV format.<br> 
 
+## Example
+
+[Excel auto graph](https://www.youtube.com/watch?v=n86BISk9gv4)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226975402-227af41a-ae52-4a85-bd28-a144e16e5bfe.jpg" width="300">
+</p>
+
 <h2>License</h2>
 
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
